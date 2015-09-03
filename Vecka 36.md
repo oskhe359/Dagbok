@@ -13,4 +13,4 @@ Så nu återstår enbart den sista delen, vilket är att göra 2 olika inläming
 
 
 ###TDP003
-Idag har vi lämnat in vår Tidsplanering. Det gick bra. Vad skönt. 
+Idag har vi lämnat in vår Tidsplanering för projektet. Det gick bra. Vad skönt. 
